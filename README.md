@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM DS Cert programm
+IBM Data Science Professional Certificate program
