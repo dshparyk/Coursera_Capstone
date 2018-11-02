@@ -1,0 +1,9 @@
+,name,categories,location.distance,location.city,location.postalCode,location.state,location.country,location.lat,location.lng
+0,Jacob K. Javits Convention Center,Convention Center,1713,New York,10001,NY,United States,40.75714002927082,-74.00240421295166
+1,Museum of Modern Art (MoMA),Art Museum,1625,New York,10019,NY,United States,40.76153099993235,-73.97713456816525
+2,New York Penn Station,Train Station,680,New York,10001,NY,United States,40.75068688320595,-73.99315234584975
+3,Grand Central Terminal,Train Station,838,New York,10017,NY,United States,40.752841608758914,-73.97759371330933
+4,Google New York,Office,1715,New York,10011,NY,United States,40.7416158042599,-74.00390625
+5,Shake Shack,Burger Joint,819,New York,10010,NY,United States,40.741353,-73.988337
+6,Turntable Chicken Jazz,Fried Chicken Joint,54,New York,10001,NY,United States,40.74842827708469,-73.98630205545861
+7,Xi'an Famous Foods,Chinese Restaurant,879,New York,10010,NY,United States,40.74063210444959,-73.98734637964503

@@ -1,0 +1,8 @@
+,name,categories,location.distance,location.city,location.postalCode,location.state,location.country,location.lat,location.lng
+0,Grand Central Terminal,Train Station,838,New York,10017,NY,United States,40.752841608758914,-73.97759371330933
+1,Jacob K. Javits Convention Center,Convention Center,1713,New York,10001,NY,United States,40.75714002927082,-74.00240421295166
+2,New York Penn Station,Train Station,680,New York,10001,NY,United States,40.75068688320595,-73.99315234584975
+3,Google New York,Office,1715,New York,10011,NY,United States,40.7416158042599,-74.00390625
+4,Museum of Modern Art (MoMA),Art Museum,1625,New York,10019,NY,United States,40.76153099993235,-73.97713456816525
+5,Port Authority Bus Terminal,Bus Station,1093,New York,10018,NY,United States,40.7569049796105,-73.99219969562924
+6,Foursquare HQ,Tech Startup,842,New York,10010,NY,United States,40.74231997674383,-73.99156204479854
